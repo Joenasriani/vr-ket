@@ -5,7 +5,7 @@
 **Primary field:** immersive perception / dissociation / VR neuroscience  
 **Live note:** https://joenasriani.github.io/vr-ket/  
 **Research collection:** https://joenasriani.github.io/joe-research-registry/quest-research.html  
-**Identity:** https://joe-nasr-signals.vercel.app/v2/
+**Identity:** https://joe-nasr-signals.vercel.app/
 
 ## Research question
 
