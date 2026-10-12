@@ -1,4 +1,4 @@
-# VR Immersion and Ketamine-Induced Dissociation — Evidence Note
+# VR Immersion vs Ketamine Dissociation: Evidence Note
 
 **Author:** Joe Nasr / QuestRequestVR  
 **Status:** Independent narrative evidence note — not a systematic review, clinical study, or medical guidance  
