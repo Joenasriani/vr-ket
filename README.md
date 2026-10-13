@@ -1,5 +1,7 @@
 # VR Immersion vs Ketamine Dissociation: Evidence Note
 
+**First published:** 2024  
+
 **Status:** Independent narrative evidence note — not a systematic review, clinical study, or medical guidance  
 **Primary field:** immersive perception / dissociation / VR neuroscience  
 **Live note:** https://joenasriani.github.io/vr-ket/  
