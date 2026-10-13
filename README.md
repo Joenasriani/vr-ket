@@ -2,7 +2,7 @@
 
 **First published:** 2024  
 
-**Status:** Independent narrative evidence note — not a systematic review, clinical study, or medical guidance  
+**Status:** Independent narrative evidence note  –  not a systematic review, clinical study, or medical guidance  
 **Primary field:** immersive perception / dissociation / VR neuroscience  
 **Live note:** https://joenasriani.github.io/vr-ket/  
 **Research collection:** https://joenasriani.github.io/joe-research-registry/quest-research.html  
@@ -33,13 +33,13 @@ The strongest defensible conclusion is more specific than the earlier version of
 
 ### Completed registered studies
 
-- **NCT01889537 — Low Dose Ketamine VR Analgesia During Burn Care Procedure.** Completed Phase 2 study; registry enrollment was 3 participants. The registry does not provide posted efficacy results. https://clinicaltrials.gov/study/NCT01889537
-- **NCT06139016 — Using Virtual Reality to Control the Audio-visual Inputs During Ketamine/Esketamine Treatment.** Yale University; completed; actual enrollment 7. The registry reports posted results and measures tolerability, safety, treatment experience, altered-state measures and dissociation. No linked peer-reviewed publication was listed in the registry at the September 17, 2026 audit. https://clinicaltrials.gov/study/NCT06139016
+- **NCT01889537  –  Low Dose Ketamine VR Analgesia During Burn Care Procedure.** Completed Phase 2 study; registry enrollment was 3 participants. The registry does not provide posted efficacy results. https://clinicaltrials.gov/study/NCT01889537
+- **NCT06139016  –  Using Virtual Reality to Control the Audio-visual Inputs During Ketamine/Esketamine Treatment.** Yale University; completed; actual enrollment 7. The registry reports posted results and measures tolerability, safety, treatment experience, altered-state measures and dissociation. No linked peer-reviewed publication was listed in the registry at the September 17, 2026 audit. https://clinicaltrials.gov/study/NCT06139016
 
 ### Ongoing registered studies
 
-- **NCT06781697 — TREASURE.** Sunnybrook Health Sciences Centre; recruiting pilot randomized trial in treatment-resistant depression comparing concurrent IV ketamine + immersive VR with ketamine alone. Estimated enrollment: 31. Primary outcomes are feasibility; secondary outcomes include depression, anxiety, dissociation, cognition, EEG and VR tolerability. No results are posted. https://clinicaltrials.gov/study/NCT06781697
-- **NCT07422519 — VR-based mindfulness + esketamine.** Recruiting randomized study in treatment-resistant depression comparing VR-based mindfulness plus treatment as usual with treatment as usual alone; esketamine is part of the treatment-as-usual pathway. No results are posted. https://clinicaltrials.gov/study/NCT07422519
+- **NCT06781697  –  TREASURE.** Sunnybrook Health Sciences Centre; recruiting pilot randomized trial in treatment-resistant depression comparing concurrent IV ketamine + immersive VR with ketamine alone. Estimated enrollment: 31. Primary outcomes are feasibility; secondary outcomes include depression, anxiety, dissociation, cognition, EEG and VR tolerability. No results are posted. https://clinicaltrials.gov/study/NCT06781697
+- **NCT07422519  –  VR-based mindfulness + esketamine.** Recruiting randomized study in treatment-resistant depression comparing VR-based mindfulness plus treatment as usual with treatment as usual alone; esketamine is part of the treatment-as-usual pathway. No results are posted. https://clinicaltrials.gov/study/NCT07422519
 
 Registered-study status describes what researchers planned or conducted; it does not by itself establish efficacy, safety, or clinical usefulness.
 
@@ -48,7 +48,7 @@ Registered-study status describes what researchers planned or conducted; it does
 - Marguilho M, Figueiredo I, Castro-Rodrigues P. *A unified model of ketamine's dissociative and psychedelic properties.* Journal of Psychopharmacology (2023). PMID 36527355: https://pubmed.ncbi.nlm.nih.gov/36527355/
 - Petrucci ABC et al. *Ketamine versus electroconvulsive therapy for major depressive episode: An updated systematic review and non-inferiority meta-analysis.* Psychiatry Research (2024). PMID 38865906: https://pubmed.ncbi.nlm.nih.gov/38865906/
 - Man DWK. *Virtual reality-based cognitive training for drug abusers: A randomised controlled trial.* Neuropsychological Rehabilitation (2020). This involved young ketamine users, but it evaluated VR cognitive training rather than concurrent VR + ketamine treatment. PMID 29734923: https://pubmed.ncbi.nlm.nih.gov/29734923/
-- Sekula AD, Downey L, Puspanathan P. *Virtual Reality as a Moderator of Psychedelic-Assisted Psychotherapy.* Frontiers in Psychology (2022). PMID 35310225: https://pubmed.ncbi.nlm.nih.gov/35310225/ — a conceptual/review paper that explicitly noted the lack of empirical evidence for combined VR and psychedelic-assisted psychotherapy at that time.
+- Sekula AD, Downey L, Puspanathan P. *Virtual Reality as a Moderator of Psychedelic-Assisted Psychotherapy.* Frontiers in Psychology (2022). PMID 35310225: https://pubmed.ncbi.nlm.nih.gov/35310225/  –  a conceptual/review paper that explicitly noted the lack of empirical evidence for combined VR and psychedelic-assisted psychotherapy at that time.
 - Maani CV et al. *Combining ketamine and virtual reality pain control during severe burn wound care: one military and one civilian patient.* Pain Medicine (2011). PMID 21481162: https://pubmed.ncbi.nlm.nih.gov/21481162/
 
 ## What the evidence does not yet establish
