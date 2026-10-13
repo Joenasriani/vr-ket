@@ -1,6 +1,5 @@
 # VR Immersion vs Ketamine Dissociation: Evidence Note
 
-**Author:** Joe Nasr / QuestRequestVR  
 **Status:** Independent narrative evidence note — not a systematic review, clinical study, or medical guidance  
 **Primary field:** immersive perception / dissociation / VR neuroscience  
 **Live note:** https://joenasriani.github.io/vr-ket/  
@@ -75,3 +74,5 @@ This remains a **narrative evidence note**, not a systematic review. It does not
 ## Safety / interpretation
 
 This page is for research and educational comparison only. It does not recommend ketamine or esketamine use, dosing, self-experimentation, or treatment. Clinical use requires qualified medical supervision and should be evaluated from authoritative medical guidance rather than this repository.
+
+Credit: Joe Nasr
